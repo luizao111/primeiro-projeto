@@ -1,1 +1,3 @@
-Oi, esse � um aqruivo de texto
+Oi, esse é um arquivo de texto
+
+Nova alteração nesse arquivo
